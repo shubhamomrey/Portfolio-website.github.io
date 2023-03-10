@@ -1,0 +1,198 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Sans-serif;
+  box-sizing: border-box;
+}
+
+.nabvar {
+  position: absolute;
+  width: 1440px;
+  height: 65px;
+  left: 0px;
+  top: 0px;
+
+  background: #000000;
+}
+
+.nav-link1 {
+  position: absolute;
+  width: 116px;
+  height: 33px;
+  left: 739px;
+  top: 18px;
+}
+
+.nav-link2 {
+  position: absolute;
+  width: 189px;
+  height: 33px;
+  left: 889px;
+  top: 18px;
+}
+
+.nav-link3 {
+  position: absolute;
+  width: 140px;
+  height: 33px;
+  left: 1078px;
+  top: 18px;
+}
+
+.nav-link4 {
+  position: absolute;
+  width: 186px;
+  height: 33px;
+  left: 1286px;
+  top: 18px;
+}
+
+.name {
+  position: absolute;
+  width: 414px;
+  height: 74px;
+  left: 99px;
+  top: 125px;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 54px;
+  line-height: 74px;
+}
+
+.profession {
+  position: absolute;
+  width: 863px;
+  height: 42px;
+  left: 99px;
+  top: 191px;
+
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 49px;
+}
+
+.home-contant {
+  position: absolute;
+  width: 1440px;
+  top: 450px;
+  padding-left: 100px;
+  padding-right: 150px;
+
+  position: absolute;
+  height: 240px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+.made-by {
+  color: white;
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 33px;
+}
+
+.articles {
+  position: absolute;
+  height: auto;
+  top: 925px;
+  padding-left: 60px;
+}
+
+.projects {
+  position: absolute;
+  height: auto;
+  top: 1130px;
+  padding-left: 60px;
+}
+
+.contact {
+  position: absolute;
+  height: auto;
+  top: 1400px;
+  padding-left: 60px;
+}
+
+h2 {
+  position: absolute;
+  width: 532px;
+  height: 45px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  padding-left: 40px;
+}
+
+.contact1 {
+  position: absolute;
+  width: 399px;
+  height: 210px;
+  left: 519px;
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  top: 60px;
+}
+
+.projects1 {
+  position: absolute;
+  width: 399px;
+  height: 210px;
+  left: 519px;
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: center;
+  top: 60px;
+}
+
+.game_design {
+  position: absolute;
+  width: 532px;
+  height: 45px;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 45px;
+  left: 450px;
+  top: 60px;
+}
+
+.article {
+  position: absolute;
+  width: 1314px;
+  height: 150px;
+
+  font-family: "Source Serif Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  top: 120px;
+  padding-left: 100px;
+  padding-right: 150px;
+}
+
+.footer {
+    position: absolute;
+    width: 1448px;
+    height: 65px;
+    text-align: center;
+    top: 1750px;
+    background-color: #000000;
+  }
